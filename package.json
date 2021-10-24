@@ -1,0 +1,11 @@
+{
+  "name": "fohsh-censored",
+  "version": "0.2.1",
+  "description": "a simple package to censors bad words in a string ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erwin maleki",
+  "license": "MIT"
+}
