@@ -1,5 +1,5 @@
 # fohshCensored
-a package for censoring persian cursed words and returning wether true or false
+a package for censoring persian cursed words and returning whether true or false
 ```javascript
 const fohshCensored = require('fohsh-censored')
 
